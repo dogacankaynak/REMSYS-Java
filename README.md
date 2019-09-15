@@ -1,5 +1,5 @@
 # CS102-Project
-This project is a real estate program called REMSYS. REMSYS’s user interface has designed to be as user friendly as possible
+This project is a real estate program called REMSYS. REMSYS’s user interface has designed to be as user friendly as possible.
 Project implemented in java as a PC application. 
 Features:
 In the beginning of this program it has welcome screen which includes logo and information of this program. After that you 
